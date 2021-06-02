@@ -8,7 +8,6 @@
 
 <div class="row">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="velinovangel" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velinovangel&theme=dark" alt="velinovangel" /></p>
 </div>
 
