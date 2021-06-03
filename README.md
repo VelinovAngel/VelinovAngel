@@ -8,10 +8,10 @@
 
 <div id="banner">
 <div class="inline-block w-25 p-3">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="velinovangel" /></p>
+<p>&nbsp;<img height="130" src="https://github-readme-stats.vercel.app/api?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="velinovangel" /></p>
 </div>
 <div class="inline-block w-25 p-3">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velinovangel&theme=dark" alt="velinovangel" /></p>
+<p><img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=velinovangel&theme=dark" alt="velinovangel" /></p>
 </div>
 </div>
 
