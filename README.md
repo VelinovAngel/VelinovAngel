@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velinovangel&label=Profile%20views&color=0e75b6&style=flat" alt="velinovangel" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en&layout=compact" alt="velinovangel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en&layout=compact" alt="velinovangel" /></p>
 
 <div id="banner">
-<div class="inline-block w-25 p-3">
-<p>&nbsp;<img height="130" src="https://github-readme-stats.vercel.app/api?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="velinovangel" /></p>
+<div class="inline-block">
+<p>&nbsp;<img height="140" src="https://github-readme-stats.vercel.app/api?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&locale=en" alt="velinovangel" /></p>
 </div>
-<div class="inline-block w-25 p-3">
-<p><img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=velinovangel&theme=dark" alt="velinovangel" /></p>
+<div class="inline-block">
+<p><img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=velinovangel&theme=dark" alt="velinovangel" /></p>
 </div>
 </div>
 
