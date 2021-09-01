@@ -48,17 +48,9 @@
 </p>
 
 
-|| ***🎓 Certificates:*** |||
-| :-: | :-: | :-: | :-:|
-| :heavy_check_mark: [**C# Basics 2020**]| :heavy_check_mark: [**C# Fundamentals 2020**]| :heavy_check_mark: [**C# Advanced 2020**]
-| :heavy_check_mark: [**C# OOP 2020**]| :heavy_check_mark: [**MS SQL 2021**]| :heavy_check_mark: [**Entity Framework Core 2021**]|
-| :heavy_check_mark: [**C# Web Basics - May 2021**]| :heavy_check_mark: [**ASP.NET Core - June 2021**]
-
-
 <table class="table table-borderless table-dark">
   <thead>
     <tr>
-      <th scope="col"></th>
       <th scope="col"></th>
       <th scope="col">🎓 Certificates:</th>
       <th scope="col"></th>
@@ -66,21 +58,18 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>:heavy_check_mark: [**C# Basics 2020**]</td>
+      <td>:heavy_check_mark: [**C# Fundamentals 2020**]</td>
+      <td>:heavy_check_mark: [**C# Advanced 2020**]</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td>:heavy_check_mark: [**C# OOP 2020**]</td>
+      <td>:heavy_check_mark: [**MS SQL 2021**]</td>
+      <td>:heavy_check_mark: [**Entity Framework Core 2021**]</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <td colspan="2">:heavy_check_mark: [**C# Web Basics - May 2021**]</td>
+      <td>:heavy_check_mark: [**ASP.NET Core - June 2021**]</td>
     </tr>
   </tbody>
 </table>
