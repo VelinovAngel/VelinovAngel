@@ -50,7 +50,7 @@
 
 || ***🎓 Certificates:*** |||
 | :-: | :-: | :-: | :-:|
-| :heavy_check_mark: [**C# Basics 2020**]| :heavy_check_mark: [**C# Fundamentals 2020**]| :heavy_check_mark: [**C# Advanced 2020**]|
-| :heavy_check_mark: [**C# OOP 2020**]| :heavy_check_mark: [**MS SQL 2021**]| :heavy_check_mark: [**Entity Framework Core 2021**]||
+| :heavy_check_mark: [**C# Basics 2020**]| :heavy_check_mark: [**C# Fundamentals 2020**]| :heavy_check_mark: [**C# Advanced 2020**]
+| :heavy_check_mark: [**C# OOP 2020**]| :heavy_check_mark: [**MS SQL 2021**]| :heavy_check_mark: [**Entity Framework Core 2021**]|
 | :heavy_check_mark: [**C# Web Basics - May 2021**]| :heavy_check_mark: [**ASP.NET Core - June 2021**]
 
