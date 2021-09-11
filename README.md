@@ -70,7 +70,7 @@
     <tr>
       <td>:heavy_check_mark: C# Web Basics - May 2021</td>
       <td>:heavy_check_mark: ASP.NET Core - June 2021</td>
-      <td></td>
+      <td>Js Advanced - (in progress)</td>
     </tr>
   </tbody>
 </table>
