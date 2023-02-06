@@ -70,7 +70,7 @@
     <tr>
       <td>:heavy_check_mark: C# Web Basics - May 2021</td>
       <td>:heavy_check_mark: ASP.NET Core - June 2021</td>
-      <td>JS Advanced - June 2022</td>
+      <td>:heavy_check_mark: JS Advanced - June 2022</td>
     </tr>
   </tbody>
 </table>
