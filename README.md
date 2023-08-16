@@ -1,7 +1,5 @@
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;"></a>, I'm Velinov Angel</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velinovangel&label=Profile%20views&color=0e75b6&style=flat" alt="velinovangel" /> </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=velinovangel&show_icons=true&theme=dark&title_color=ff0000&text_color=ff0000&hide_border=true&locale=en&layout=compact" alt="velinovangel" /></p>
 
